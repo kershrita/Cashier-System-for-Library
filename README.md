@@ -37,12 +37,12 @@ To start using the Cashier System for Library, follow these steps:
 **Note**: empolyees names and positions, books and short stories are previously written in the code [take a look before running the code].
 ## Usage
 
--**Book Checkout**: Process book checkouts by scanning or manually entering book barcodes, associating books with members, and recording due dates.
--**Payment Processing**: Accept payments for overdue fines, lost or damaged books, and other library charges using various payment methods, such as cash, credit cards, or electronic payments.
--**Membership Management**: Create and renew library memberships, update member information, and track borrowing history.
--**Inventory Tracking**: Search for books, check their availability, and update the status of borrowed or returned items.
+- **Book Checkout**: Process book checkouts by scanning or manually entering book barcodes, associating books with members, and recording due dates.
+- **Payment Processing**: Accept payments for overdue fines, lost or damaged books, and other library charges using various payment methods, such as cash, credit cards, or electronic payments.
+- **Membership Management**: Create and renew library memberships, update member information, and track borrowing history.
+- **Inventory Tracking**: Search for books, check their availability, and update the status of borrowed or returned items.
 
 ## Configuration
 
--**Payment Methods**: Configure accepted payment methods, including cash, credit cards, mobile payments, or other preferred options.
--**Borrowing Policies**: Customize borrowing rules, such as the number of books allowed, borrowing duration, and renewal policies.
+- **Payment Methods**: Configure accepted payment methods, including cash, credit cards, mobile payments, or other preferred options.
+- **Borrowing Policies**: Customize borrowing rules, such as the number of books allowed, borrowing duration, and renewal policies.
