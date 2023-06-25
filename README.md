@@ -6,7 +6,7 @@ In this project we used C++ programming language, OOP for C++, data structure an
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting started)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Configuration](#configuration)
 
